@@ -3,7 +3,7 @@ By Martin Odersky
 
 
 	# Weeks
-		-Week 1: Functions & Evaluations - progfun
+		-Week 1: Functions & Evaluations - recfun
 
 <br />
 P.s:<br />
